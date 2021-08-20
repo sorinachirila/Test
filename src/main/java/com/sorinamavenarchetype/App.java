@@ -3,6 +3,7 @@ package com.sorinamavenarchetype;
 /**
  * Hello world!
  *
+ *
  */
 public class App 
 {
